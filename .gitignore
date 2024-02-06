@@ -1,5 +1,5 @@
 Database
-packages
+/packages
 
 #excluimos la licencia del software
 *.rtf

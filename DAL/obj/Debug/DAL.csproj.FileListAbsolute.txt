@@ -1,0 +1,6 @@
+C:\Users\fabri\Documents\Programacion\C-Sharp\ctrl prod valent france\DAL\bin\Debug\DAL.dll
+C:\Users\fabri\Documents\Programacion\C-Sharp\ctrl prod valent france\DAL\bin\Debug\DAL.pdb
+C:\Users\fabri\Documents\Programacion\C-Sharp\ctrl prod valent france\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\fabri\Documents\Programacion\C-Sharp\ctrl prod valent france\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\fabri\Documents\Programacion\C-Sharp\ctrl prod valent france\DAL\obj\Debug\DAL.dll
+C:\Users\fabri\Documents\Programacion\C-Sharp\ctrl prod valent france\DAL\obj\Debug\DAL.pdb

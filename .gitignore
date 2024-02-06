@@ -4,3 +4,5 @@ Database
 #excluimos la licencia del software
 *.rtf
 licencia.rtf
+
+*.gitignore

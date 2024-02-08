@@ -11,6 +11,12 @@ namespace DESIGNER
     public class D_Usuarios
     {
         private B_Usuarios obj_usuarios = new B_Usuarios();
+
+        public List<Usuarios> IniciarSesion()
+        {
+            return obj_usuarios.IniciarSesion();
+        }
+
         public List<Usuarios> Listar()
         {
             return obj_usuarios.Listar();

@@ -16,7 +16,7 @@ namespace DAL
         public string correo { get; set; }
         public string clave { get; set; }
         public Nivelacceso oNivelacceso { get; set; }
-        public int estado { get; set; }
+        public bool estado { get; set; }
         public string fecharegistro { get; set; }
     }
 }

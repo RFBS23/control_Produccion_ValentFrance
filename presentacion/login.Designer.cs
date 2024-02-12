@@ -220,6 +220,7 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Iniciar Sesión - Control de produccion VALENT FRANCE";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.login_FormClosing);
+            this.Load += new System.EventHandler(this.login_Load);
             ((System.ComponentModel.ISupportInitialize)(this.piclogin)).EndInit();
             this.tableLayoutPanel1.ResumeLayout(false);
             this.guna2Panel3.ResumeLayout(false);

@@ -54,6 +54,9 @@
     <Reference Include="Microsoft.ReportViewer.WinForms">
       <HintPath>..\..\..\..\..\..\..\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\ENTERPRISE\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\SSAS\Microsoft.ReportViewer.WinForms.dll</HintPath>
     </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Design" />
@@ -166,6 +169,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Assets\login.png" />
+    <None Include="Resources\seleccionar.png" />
+    <None Include="Resources\usuario.png" />
+    <None Include="Resources\buscar.png" />
+    <None Include="Resources\limpiar.png" />
     <None Include="Resources\detallecompras.png" />
     <None Include="Resources\compraprod.png" />
     <None Include="Resources\compras.png" />

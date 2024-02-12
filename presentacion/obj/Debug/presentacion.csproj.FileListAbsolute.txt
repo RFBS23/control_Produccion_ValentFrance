@@ -5,12 +5,14 @@ C:\Users\fabri\Documents\Programacion\C-Sharp\ctrl prod valent france\presentaci
 C:\Users\fabri\Documents\Programacion\C-Sharp\ctrl prod valent france\presentacion\bin\Debug\DESIGNER.dll
 C:\Users\fabri\Documents\Programacion\C-Sharp\ctrl prod valent france\presentacion\bin\Debug\Guna.UI2.dll
 C:\Users\fabri\Documents\Programacion\C-Sharp\ctrl prod valent france\presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\fabri\Documents\Programacion\C-Sharp\ctrl prod valent france\presentacion\bin\Debug\Newtonsoft.Json.dll
 C:\Users\fabri\Documents\Programacion\C-Sharp\ctrl prod valent france\presentacion\bin\Debug\BOL.dll
 C:\Users\fabri\Documents\Programacion\C-Sharp\ctrl prod valent france\presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
 C:\Users\fabri\Documents\Programacion\C-Sharp\ctrl prod valent france\presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
 C:\Users\fabri\Documents\Programacion\C-Sharp\ctrl prod valent france\presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
 C:\Users\fabri\Documents\Programacion\C-Sharp\ctrl prod valent france\presentacion\bin\Debug\DAL.pdb
 C:\Users\fabri\Documents\Programacion\C-Sharp\ctrl prod valent france\presentacion\bin\Debug\DESIGNER.pdb
+C:\Users\fabri\Documents\Programacion\C-Sharp\ctrl prod valent france\presentacion\bin\Debug\Newtonsoft.Json.xml
 C:\Users\fabri\Documents\Programacion\C-Sharp\ctrl prod valent france\presentacion\bin\Debug\BOL.pdb
 C:\Users\fabri\Documents\Programacion\C-Sharp\ctrl prod valent france\presentacion\obj\Debug\presentacion.csproj.AssemblyReference.cache
 C:\Users\fabri\Documents\Programacion\C-Sharp\ctrl prod valent france\presentacion\obj\Debug\presentacion.Alertas.resources
